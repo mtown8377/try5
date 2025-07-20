@@ -6,7 +6,7 @@ var app = builder.Build();
 
 app.MapOpenApi();
 
-app.MapGet("/little", () => "Hello Little Monkey World!  Meuw.")
+app.MapGet("/little", () => "Hello Little Monkey World!  Meuw. CI/CD")
     .WithName("Little");
 
 app.Run();
