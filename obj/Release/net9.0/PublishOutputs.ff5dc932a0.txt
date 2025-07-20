@@ -1,0 +1,9 @@
+C:\Users\nuggy\source\repos\try5\try5\obj\Release\net9.0\PubTmp\Out\try5.exe
+C:\Users\nuggy\source\repos\try5\try5\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\nuggy\source\repos\try5\try5\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\nuggy\source\repos\try5\try5\obj\Release\net9.0\PubTmp\Out\try5.dll
+C:\Users\nuggy\source\repos\try5\try5\obj\Release\net9.0\PubTmp\Out\try5.deps.json
+C:\Users\nuggy\source\repos\try5\try5\obj\Release\net9.0\PubTmp\Out\try5.runtimeconfig.json
+C:\Users\nuggy\source\repos\try5\try5\obj\Release\net9.0\PubTmp\Out\try5.pdb
+C:\Users\nuggy\source\repos\try5\try5\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nuggy\source\repos\try5\try5\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
